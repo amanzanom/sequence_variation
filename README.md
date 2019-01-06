@@ -1,0 +1,8 @@
+# sequence_variation
+Collection of several scripts used to call variants and perform other analyses from re-sequencing of experimentally evolved genomes of viruses. Still need to write propper documentation for some of them. These scripts have been used in the following publications.
+
+* Mark P. Zwart, Anouk Willemsen, José-Antonio Daròs, Santiago F. Elena; Experimental Evolution of Pseudogenization and Gene Loss in a Plant RNA Virus, Molecular Biology and Evolution, Volume 31, Issue 1, 1 January 2014, Pages 121–134, https://doi.org/10.1093/molbev/mst175
+* José M. Cuevas, Anouk Willemsen, Julia Hillung, Mark P. Zwart, Santiago F. Elena; Temporal Dynamics of Intrahost Molecular Evolution for a Plant RNA Virus, Molecular Biology and Evolution, Volume 32, Issue 5, 1 May 2015, Pages 1132–1147, https://doi.org/10.1093/molbev/msv028
+* Anouk Willemsen, Mark P. Zwart, Nicolas Tromas, Eszter Majer, José-Antonio Daròs and Santiago F. Elena; Multiple Barriers to the Evolution of Alternative Gene Orders in a Positive-Strand RNA Virus, Genetics, Volume 202, Issue 4, 1 April 2016, Pages 1503-1521, https://doi.org/10.1534/genetics.115.185017
+* Anouk Willemsen, Mark P. Zwart, Pablo Higueras, Josep Sardanyés, Santiago F. Elena; Predicting the Stability of Homologous Gene Duplications in a Plant RNA Virus, Genome Biology and Evolution, Volume 8, Issue 9, 1 September 2016, Pages 3065–3082, https://doi.org/10.1093/gbe/evw219
+* Anouk Willemsen, Mark P. Zwart, Silvia Ambrós, José L. Carrasco, Santiago F. Elena; 2b or Not 2b: Experimental Evolution of Functional Exogenous Sequences in a Plant RNA Virus, Genome Biology and Evolution, Volume 9, Issue 2, 1 February 2017, Pages 297–310, https://doi.org/10.1093/gbe/evw300
